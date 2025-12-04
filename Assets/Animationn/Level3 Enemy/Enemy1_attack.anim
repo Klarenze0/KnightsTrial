@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Enemy1_attack
+  serializedVersion: 7
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves:
+  - serializedVersion: 2
+    curve:
+    - time: 0
+      value: {fileID: 7530555281797389559, guid: 7d9cb2d12e55a4b43bd993383b1a703f, type: 3}
+    - time: 0.1
+      value: {fileID: 6697495368085710345, guid: eaa0c2ab0637aa64296e128965f220da, type: 3}
+    - time: 0.2
+      value: {fileID: -2684345698607025799, guid: 22f6f99846dea674fbff48fe9c14f9fc, type: 3}
+    - time: 0.3
+      value: {fileID: -7524433957829863914, guid: 8171869d2d9d7e04e995b68c6ac7c19f, type: 3}
+    - time: 0.4
+      value: {fileID: -1857882824098807677, guid: f6379485124ffcb489af6ee127bd0d76, type: 3}
+    - time: 0.5
+      value: {fileID: -6898028736671803973, guid: aba02d9811c9e4c40a3f36f50c9cbd8b, type: 3}
+    - time: 0.6
+      value: {fileID: 1021754786751593002, guid: 0ed42551b5172654da2162682eb4387a, type: 3}
+    - time: 0.7
+      value: {fileID: 6702791981847922596, guid: 51164cf132ee30b41ba6bc8bfc3206d3, type: 3}
+    - time: 0.8
+      value: {fileID: 2292432434647731931, guid: 6e1b8d48dd7339040b5a006aeee0cac6, type: 3}
+    - time: 0.9
+      value: {fileID: -5915455823446641847, guid: e7fdd1433eef1614e873f72d13180992, type: 3}
+    - time: 1
+      value: {fileID: -2783361270492012807, guid: 17ed44b5ded725a4a8eaae136a811739, type: 3}
+    - time: 1.1
+      value: {fileID: -6547385874738567515, guid: cbb62c901644636488032dfd7f35cb80, type: 3}
+    attribute: m_Sprite
+    path: 
+    classID: 212
+    script: {fileID: 0}
+    flags: 2
+  m_SampleRate: 10
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 0
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    pptrCurveMapping:
+    - {fileID: 7530555281797389559, guid: 7d9cb2d12e55a4b43bd993383b1a703f, type: 3}
+    - {fileID: 6697495368085710345, guid: eaa0c2ab0637aa64296e128965f220da, type: 3}
+    - {fileID: -2684345698607025799, guid: 22f6f99846dea674fbff48fe9c14f9fc, type: 3}
+    - {fileID: -7524433957829863914, guid: 8171869d2d9d7e04e995b68c6ac7c19f, type: 3}
+    - {fileID: -1857882824098807677, guid: f6379485124ffcb489af6ee127bd0d76, type: 3}
+    - {fileID: -6898028736671803973, guid: aba02d9811c9e4c40a3f36f50c9cbd8b, type: 3}
+    - {fileID: 1021754786751593002, guid: 0ed42551b5172654da2162682eb4387a, type: 3}
+    - {fileID: 6702791981847922596, guid: 51164cf132ee30b41ba6bc8bfc3206d3, type: 3}
+    - {fileID: 2292432434647731931, guid: 6e1b8d48dd7339040b5a006aeee0cac6, type: 3}
+    - {fileID: -5915455823446641847, guid: e7fdd1433eef1614e873f72d13180992, type: 3}
+    - {fileID: -2783361270492012807, guid: 17ed44b5ded725a4a8eaae136a811739, type: 3}
+    - {fileID: -6547385874738567515, guid: cbb62c901644636488032dfd7f35cb80, type: 3}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 1.2
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_Events:
+  - time: 0.9
+    functionName: DamagePlayer
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
